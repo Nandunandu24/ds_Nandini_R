@@ -40,8 +40,10 @@ Outputs
 
 How to View  
 - Open `notebook_1.ipynb` using the provided Google Colab link (view-only access).  
+- https://colab.research.google.com/drive/1jgpoyCYteCPtUy9ruCH73AYshpEMAMAo?usp=sharing
 - Refer to `ds_report.pdf` for a summarized explanation of results.  
 
 Author  
 Nandini R
+
  

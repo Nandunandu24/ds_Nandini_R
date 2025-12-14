@@ -10,16 +10,6 @@ Datasets
 2. Historical Trader Data (Hyperliquid) 
    - Fields used: account, symbol, size, side, time/date, Closed PnL  
 
-Project Structure  
-ds_Nandini_R/
-├── notebook_1.ipynb
-├── csv_files/
-│ └── sentiment_summary.csv
-├── outputs/
-│ └── pnl_distribution.png
-├── ds_report.pdf
-└── README.md
-
 Methodology  
 - Converted trade timestamps and sentiment dates to daily formats.  
 - Merged trader activity with market sentiment based on date.  
@@ -47,3 +37,4 @@ Author
 Nandini R
 
  
+
